@@ -1,4 +1,3 @@
-https://github.com/Rawdaa-A/Car-Data-Analysis-Dashboard/blob/280c4f21389403a36bb811797d0f28728a7d59af/Screenshot%202026-03-04%20214503.png
 # Car Data Analysis Dashboard | SQL Normalization & Excel Visualization 🚗📊
 
 ## 📝 Project Overview
@@ -28,7 +27,7 @@ The final Excel Dashboard provides a deep dive into:
 )
 
 ### 2️⃣ Relational Schema & SQL Queries
-![SQL Schema](انسخي_رابط_صورة_الموديل_أو_الكود_هنا)
+![SQL Schema](https://github.com/Rawdaa-A/Car-Data-Analysis-Dashboard/blob/b5ee6df8915896a28c56e69dd3dc3bbfdec70ccc/normalization_query.sql)
 
 ---
 
