@@ -23,7 +23,11 @@ The final Excel Dashboard provides a deep dive into:
 )
 
 ### 2️⃣Video Demonstration
-<video src="https://github.com/Rawdaa-A/Car-Data-Analysis-Dashboard/blob/173e34b22357c65f0c4bef06480c8f2419529246/Task8%20(2).mp4" controls="controls" style="max-width: 100%;">
+<video src="
+
+https://github.com/user-attachments/assets/86d2fd07-a30d-4d33-ad84-a366799df63b
+
+" controls="controls" style="max-width: 100%;">
 </video>
 
 ---
