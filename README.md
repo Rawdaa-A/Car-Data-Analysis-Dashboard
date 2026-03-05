@@ -26,4 +26,4 @@ The final Excel Dashboard provides a deep dive into:
 
 ## 🧰 Tools & Skills
 * **Tools:** SQL (PostgreSQL/MySQL), Excel (ODBC, Power Query), Data Modeling.
-* **Skills:** SQL Normalization (1NF, 2NF, 3NF), CTEs, Relational Mapping, Dashboard Design, Data Visualization.
+* **Skills:** SQL Normalization , CTEs, Relational Mapping, Dashboard Design, Data Visualization.
