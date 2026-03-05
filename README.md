@@ -22,6 +22,11 @@ The final Excel Dashboard provides a deep dive into:
 ![Car Dashboard](https://github.com/Rawdaa-A/Car-Data-Analysis-Dashboard/blob/280c4f21389403a36bb811797d0f28728a7d59af/Screenshot%202026-03-04%20214503.png
 )
 
+### 2️⃣Video Demonstration
+<video src="https://github.com/user-attachments/assets/e46a83f0-3f8e-4a85-8742-49e3212e9b3f" controls="controls" style="max-width: 100%;">
+</video>
+
+---
 
 
 ## 🧰 Tools & Skills
