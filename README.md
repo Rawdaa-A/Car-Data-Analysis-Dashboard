@@ -27,7 +27,7 @@ The final Excel Dashboard provides a deep dive into:
 )
 
 ### 2️⃣ Relational Schema & SQL Queries
-![SQL Schema](https://github.com/Rawdaa-A/Car-Data-Analysis-Dashboard/blob/e3bb4caddf3bde8a8903419bddac721f47288092/normalization_query.sql).
+https://github.com/Rawdaa-A/Car-Data-Analysis-Dashboard/blob/e3bb4caddf3bde8a8903419bddac721f47288092/normalization_query.sql
 ---
 
 ## 🧰 Tools & Skills
