@@ -6,11 +6,7 @@ This project demonstrates an end-to-end data pipeline, from raw data processing 
 ## 🛠️ Technical Workflow (Data Engineering & Analysis)
 
 1. **Database Setup & ETL:** Imported raw data into **SQL Server/PostgreSQL** and created a primary staging table.
-2. **Data Normalization:** Structured the data into normalized entities to reduce redundancy:
-   * **Brands Table**
-   * **Models Table**
-   * **Owners Table**
-   * **Transactions Table**
+2. **Data Normalization:** Structured the data into normalized entities.
 3. **Advanced SQL Techniques:** Since I had "Read-Only" permissions, I utilized **CTEs (Common Table Expressions)** to generate IDs and establish relationships dynamically.
 4. **Live Data Connection:** Connected the SQL Database to **Excel via ODBC**, using **Advanced Queries** to fetch structured, clean data for analysis.
 
@@ -26,9 +22,7 @@ The final Excel Dashboard provides a deep dive into:
 ![Car Dashboard](https://github.com/Rawdaa-A/Car-Data-Analysis-Dashboard/blob/280c4f21389403a36bb811797d0f28728a7d59af/Screenshot%202026-03-04%20214503.png
 )
 
-### 2️⃣ Relational Schema & SQL Queries
-https://github.com/Rawdaa-A/Car-Data-Analysis-Dashboard/blob/e3bb4caddf3bde8a8903419bddac721f47288092/normalization_query.sql
----
+
 
 ## 🧰 Tools & Skills
 * **Tools:** SQL (PostgreSQL/MySQL), Excel (ODBC, Power Query), Data Modeling.
