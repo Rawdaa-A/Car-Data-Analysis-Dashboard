@@ -23,12 +23,10 @@ The final Excel Dashboard provides a deep dive into:
 )
 
 ### 2️⃣Video Demonstration
-<video src="
+
 
 https://github.com/user-attachments/assets/86d2fd07-a30d-4d33-ad84-a366799df63b
 
-" controls="controls" style="max-width: 100%;">
-</video>
 
 ---
 
